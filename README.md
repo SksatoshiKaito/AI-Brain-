@@ -22,7 +22,10 @@ The "intelligence" of this model is an emergent property of the training data an
 - `data.txt`: The input data source. This can contain any tokenizable data format.
 - `super_gpt.pth`: The serialized model weights (generated post-training).
 
-## 🚀 Getting Started
+## 🚀 Getting Started   
+
+<img width="1600" height="860" alt="WhatsApp Image 2026-06-27 at 9 17 29 AM" src="https://github.com/user-attachments/assets/e4284e17-34a5-470b-9a1e-67cdb140b682" />
+
 
 ### Prerequisites
 - Python 3.8+
